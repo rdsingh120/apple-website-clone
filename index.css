@@ -175,7 +175,7 @@ header {
 
 /* For medium screens */
 
-@media screen and (max-width: 1068px) {
+/* @media screen and (max-width: 1068px) {
     .iphone-11-pro {
         background: url(/images/showcase/iphone_11_pro/iphone_11_pro_medium.jpg);
     }
@@ -212,7 +212,7 @@ header {
         background: url(/images/showcase/watch/logo_watch_medium.png) center no-repeat;
         background-size: auto 6.2rem;
     }
-}
+} */
 
 /* For small screens */
 
