@@ -374,6 +374,8 @@ header {
         }
     }
 
+}
+
     @media screen and (max-width: 735px) {
         .iphone-11-pro {
             background: url(/images/showcase/iphone_11_pro/iphone_11_pro_small.jpg);
@@ -419,4 +421,3 @@ header {
             font-size: 1.9rem;
         }
     }
-}
